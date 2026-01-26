@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Geovanni de Souza
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Geovanni de Souza, tenho 26 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e possuo MBA em Arquitetura de Software. Tenho experiência como Desenvolvedor Full Stack, atuando no desenvolvimento de aplicações web e APIs, com foco em backend. Sou apaixonado por tecnologia, aprendizado contínuo e boas práticas de desenvolvimento, e busco constantemente evoluir minhas habilidades técnicas por meio de projetos práticos e estudos na área.
 
