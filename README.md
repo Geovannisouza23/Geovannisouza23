@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Geovanni de Souza
+# 👨🏽‍💻 Geovanni de Souza
 
 **`Desenvolvedora FullStack`**
 
