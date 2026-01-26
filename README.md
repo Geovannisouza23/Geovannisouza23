@@ -60,7 +60,7 @@ Me chamo Geovanni de Souza, tenho 26 anos e sou natural de São Paulo. Sou forma
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://share.google/4kQUriZYpYY8vznx0" 
+    src="https://share.google/Cu5EEKfl6KELEoRgV" 
 />
 <img 
     align="left" 
