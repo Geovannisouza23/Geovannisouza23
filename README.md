@@ -1,18 +1,14 @@
 # 👨🏽‍💻 Geovanni de Souza
 
-**`Desenvolvedor FullStack`**
+🚀 Desenvolvedor Full Stack Júnior
+📍 São Paulo – SP  
+📞 WhatsApp: [Falar comigo](https://wa.me/5511915149481)  
+📧 Email: geovanni.dev23@hotmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/geovanni-souza-developer)
 
 Me chamo Geovanni de Souza, tenho 26 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e possuo MBA em Arquitetura de Software. Tenho experiência como Desenvolvedor Full Stack, atuando no desenvolvimento de aplicações web e APIs, com foco em backend. Sou apaixonado por tecnologia, aprendizado contínuo e boas práticas de desenvolvimento, e busco constantemente evoluir minhas habilidades técnicas por meio de projetos práticos e estudos na área.
 
-<p align="left">
-    <a href="https://github.com/Geovannisouza23">
-        <img 
-            alt="Perfil Github" 
-            title="Meu perfil GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
+
 
 ---
 
