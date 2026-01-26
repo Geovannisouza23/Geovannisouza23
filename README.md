@@ -130,22 +130,20 @@ Me chamo Geovanni de Souza, tenho 26 anos e sou natural de São Paulo. Sou forma
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📁 Projetos em Destaque
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+🔹 **Sistema Web para ONG**  
+API REST desenvolvida em Go e C#, com banco MySQL, Docker e deploy na AWS.  
+Projeto utilizado como **portfólio profissional**.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+🔹 **Projetos Backend**  
+Coleção de APIs e aplicações focadas em boas práticas, organização de código e aprendizado contínuo.
 
-</p>
+---
+
+## 📫 Vamos conversar?
+
+Se quiser trocar uma ideia, falar sobre projetos ou oportunidades:
+
+👉 **WhatsApp:** https://wa.me/5511915149481  
+👉 **LinkedIn:** https://linkedin.com/in/geovanni-souza-developer
