@@ -132,11 +132,11 @@ Me chamo Geovanni de Souza, tenho 26 anos e sou natural de São Paulo. Sou forma
 
 ## 📁 Projetos em Destaque
 
-🔹 **Sistema Web para ONG**  
+🧑‍💻 **Sistema Web para ONG**  
 API REST desenvolvida em Go e C#, com banco MySQL, Docker e deploy na AWS.  
 Projeto utilizado como **portfólio profissional**.
 
-🔹 **Projetos Backend**  
+📈 **Projetos Backend**  
 Coleção de APIs e aplicações focadas em boas práticas, organização de código e aprendizado contínuo.
 
 ---
