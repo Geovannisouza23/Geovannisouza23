@@ -116,10 +116,3 @@ Se quiser trocar uma ideia, falar sobre projetos ou oportunidades:
 
 👉 **WhatsApp:** https://wa.me/5511915149481  
 👉 **LinkedIn:** https://linkedin.com/in/geovanni-souza-developer
-
-
-pie
-    title Linguagens & Tecnologias
-    "Go / PHP / HTML / CSS" : 40
-    "JavaScript" : 30
-    "React" : 10
