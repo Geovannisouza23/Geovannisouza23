@@ -118,4 +118,8 @@ Se quiser trocar uma ideia, falar sobre projetos ou oportunidades:
 👉 **LinkedIn:** https://linkedin.com/in/geovanni-souza-developer
 
 
-![Chart](./assets/chart.svg)
+pie
+    title Linguagens & Tecnologias
+    "Go / PHP / HTML / CSS" : 40
+    "JavaScript" : 30
+    "React" : 10
