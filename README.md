@@ -1,13 +1,9 @@
-# 👨🏽‍💻 Geovanni de Souza
+👨🏽‍💻 Geovanni de Souza
 
-🚀 Desenvolvedor Full Stack Júnior
-📍 São Paulo – SP  
-📞 WhatsApp: [Falar comigo](https://wa.me/5511915149481)  
-📧 Email: geovanni.dev23@hotmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/geovanni-souza-developer)
+🚀 Junior Full Stack Developer
+📧 Email: geovanni.dev23@hotmail.com
 
-Me chamo Geovanni de Souza, tenho 26 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e possuo MBA em Arquitetura de Software. Tenho experiência como Desenvolvedor Full Stack, atuando no desenvolvimento de aplicações web e APIs, com foco em backend. Sou apaixonado por tecnologia, aprendizado contínuo e boas práticas de desenvolvimento, e busco constantemente evoluir minhas habilidades técnicas por meio de projetos práticos e estudos na área.
-
+My name is Geovanni de Souza, I am 26 years old and originally from São Paulo. I hold a degree in Systems Analysis and Development and an MBA in Software Architecture. I have experience as a Full Stack Developer, working on the development of web applications and APIs, with a strong focus on backend development. I am passionate about technology, continuous learning, and best development practices, and I constantly seek to improve my technical skills through hands-on projects and dedicated study in the field.
 
 
 ---
