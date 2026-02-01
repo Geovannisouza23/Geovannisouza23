@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Geovanni de Souza
 
 ## 🚀 Junior Full Stack Developer
-📧 Email: geovanni.dev23@hotmail.com
+### 📧 Email: geovanni.dev23@hotmail.com
 
 My name is Geovanni de Souza, I am 26 years old and originally from São Paulo. I hold a degree in Systems Analysis and Development and an MBA in Software Architecture. I have experience as a Full Stack Developer, working on the development of web applications and APIs, with a strong focus on backend development. I am passionate about technology, continuous learning, and best development practices, and I constantly seek to improve my technical skills through hands-on projects and dedicated study in the field.
 
