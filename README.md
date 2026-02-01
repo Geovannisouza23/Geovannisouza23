@@ -109,5 +109,5 @@ A collection of APIs and applications focused on best practices, clean code orga
 
 If you’d like to chat, talk about projects, or explore opportunities:
 
-👉 WhatsApp: https://wa.me/5511915149481
-👉 LinkedIn: https://linkedin.com/in/geovanni-souza-developer
+#### 👉 WhatsApp: https://wa.me/5511915149481
+#### 👉 LinkedIn: https://linkedin.com/in/geovanni-souza-developer
