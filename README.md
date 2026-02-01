@@ -96,11 +96,11 @@ My name is Geovanni de Souza, I am 26 years old and originally from São Paulo. 
 
 ## 📁 Featured Projects
 
-🧑‍💻 Web System for an NGO
+### 🧑‍💻 Web System for an NGO
 REST API developed in Go and C#, using MySQL, Docker, and deployed on AWS.
 Project used as a professional portfolio.
 
-📈 Backend Projects
+### 📈 Backend Projects
 A collection of APIs and applications focused on best practices, clean code organization, and continuous learning.
 
 ⸻
